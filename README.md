@@ -16,16 +16,22 @@ transfer ownership
 
 ### Installing
 
-Type in the terminal git clone https://github.com/MazoAlijah/ethavax2.git
-Type npm i
-Open two extra terminals in your VS code,
-In the second terminal type:
+1. Type in the terminal git clone https://github.com/MazoAlijah/ethavax2.git
+
+2. Type npm i
+
+3. Open two extra terminals in your VS code,
+
+4. In the second terminal type:
 npx hardhat node
-In the third terminal, type:
+
+5. In the third terminal, type:
 npx hardhat run --network localhost deploy.js.
-Now, go back to the first terminal and type:
+
+7. Now, go back to the first terminal and type:
 npm run dev
-open the url below in your browser and enjoy interacting the program
+
+9. open the url below in your browser and enjoy interacting the program
 http://localhost:3000
 
 
