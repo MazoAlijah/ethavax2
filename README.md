@@ -32,7 +32,8 @@ npx hardhat run --network localhost deploy.js.
 npm run dev
 
 9. open the url below in your browser and enjoy interacting the program
-http://localhost:3000
+    
+    http://localhost:3000
 
 
 
